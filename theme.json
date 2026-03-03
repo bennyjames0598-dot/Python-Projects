@@ -1,0 +1,26 @@
+{
+  "ACCENT_BLUE": "#0858FF",
+  "DARK_BG": "#fdfdfd",
+  "PANEL_BG": "#edf4f7",
+  "CARD_BG": "#f9f9f9",
+  "TEXT": "#080808",
+  "MUTED": "#040303",
+  "BORDER": "rgba(255,255,255,0.12)",
+  "GRID_DAILY": "rgba(255,255,255,0.18)",
+  "GRID_WEEKLY": "rgba(255,255,255,0.40)",
+  "EMPTY_WEEKDAY": "#f5f6f7",
+  "EMPTY_WEEKEND": "#fafafb",
+  "TABLE_BORDER": "rgba(255,255,255,0.20)",
+  "CHART_BG": "#ebeef5",
+  "TABLE_BG": "#c8e6f5",
+  "HEADER_TEXT": "#0c0c0c",
+  "AXIS_TEXT": "#000000",
+  "HEADER_ALIGN_YSHIFT": 30,
+  "STATUS_COLORS": {
+    "Completed": "#2ECC71",
+    "In progress": "#609de8",
+    "Not started": "#6C7A89",
+    "Overdue": "#e06363",
+    "Unknown": "#9B59B6"
+  }
+}
